@@ -1,6 +1,4 @@
-Here's a beautiful, eye-catching README.md that matches your neon-themed HTML file:
 
-```markdown
 <div align="center">
 
 # ⚡ RELAY PATTERN CONTROLLER ⚡
