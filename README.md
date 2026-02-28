@@ -52,7 +52,7 @@
     </tr>
   </table>
 </div>
-```
+
 
 ## 📥 *DOWNLOAD & USE*
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/⬇️_DOWNLOAD_HTML_FILE-00dfff?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=00dfff)](https://raw.githubusercontent.com/yourusername/relay-pattern-controller/main/index.html)
+[![DOWNLOAD](https://img.shields.io/badge/⬇️_DOWNLOAD_HTML_FILE-00dfff?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=00dfff)](https://raw.githubusercontent.com/Pabasaralakmal2/Relay-Pattern-Controller/index.html)
 
 **Right-click → Save As → Open in Browser!** ✨
 
@@ -102,7 +102,7 @@ graph LR
     C --> D[⚡ Adjust Speed]
     D --> E[🔘 Click Start]
     E --> F[✨ Enjoy the Light Show!]
-```
+
 
 ### **📋 STEP-BY-STEP GUIDE**
 
@@ -129,8 +129,8 @@ graph LR
 </div>
 
 ## ⚙️ *TECHNICAL SPECS*
+```
 
-```javascript
 {
   "relays": "8 channels",
   "patterns": "10 unique",
@@ -190,7 +190,7 @@ void loop() {
 
 <div align="center">
 
-```
+
 ┌─────────────────────────────────────────────────┐
 │          RELAY PATTERN CONTROLLER              │
 │              by PABABASARA                      │
@@ -210,7 +210,7 @@ void loop() {
 │                THANK YOU                        │
 │                 (Neon Red)                      │
 └─────────────────────────────────────────────────┘
-```
+
 
 </div>
 
@@ -274,5 +274,5 @@ Copyright © 2024 PABABASARA
 [⬆️ Back to Top](#-relay-pattern-controller-)
 
 </div>
-```
+
 
