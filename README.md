@@ -29,7 +29,7 @@
 
 ## 🌈 *PREVIEW OF MAGIC*
 
-```html
+
 <div align="center">
   <table>
     <tr>
@@ -95,7 +95,7 @@
 
 </div>
 
-```mermaid
+
 graph LR
     A[📂 Download HTML] --> B[🌐 Open in Browser]
     B --> C[🎯 Select Pattern]
